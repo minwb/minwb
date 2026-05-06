@@ -11,7 +11,7 @@
   </defs>
   <rect width="390" height="280" rx="12" fill="url(#bg)" stroke="#21262d" stroke-width="1"/>
   <rect x="0" y="0" width="390" height="3" rx="2" fill="url(#accent)"/>
-  <text x="20" y="35" font-family="'Segoe UI', monospace" font-size="11" fill="#7b2ff7" letter-spacing="3"> H E L L O, W E L C O M E  !</text>
+  <text x="20" y="35" font-family="'Segoe UI', monospace" font-size="11" fill="#7b2ff7" letter-spacing="3"> HELLO, WELCOME !</text>
   <line x1="20" y1="45" x2="370" y2="45" stroke="#21262d" stroke-width="1"/>
   <text x="20" y="68" font-family="'Segoe UI', sans-serif" font-size="12.5" fill="#e6edf3">
     <tspan> ^^ I'm </tspan><tspan fill="#ffb3d1" font-weight="600">Yasmin</tspan><tspan>, born in 2005</tspan>
