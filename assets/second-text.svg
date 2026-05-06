@@ -1,0 +1,47 @@
+<svg width="390" height="280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7b2ff7"/>
+      <stop offset="100%" style="stop-color:#00b4d8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="390" height="280" rx="12" fill="url(#bg2)" stroke="#21262d" stroke-width="1"/>
+  <rect x="0" y="0" width="390" height="3" rx="2" fill="url(#accent2)"/>
+
+  <text x="20" y="35" font-family="'Segoe UI', monospace" font-size="11" fill="#00b4d8" letter-spacing="3">MORE ABOUT ME . .</text>
+  <line x1="20" y1="45" x2="370" y2="45" stroke="#21262d" stroke-width="1"/>
+
+  <text x="20" y="68" font-family="'Segoe UI', sans-serif" font-size="11.5" fill="#7b2ff7" font-weight="700" letter-spacing="1">CURRENTLY STUDYING</text>
+
+  <text x="20" y="90" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e6edf3">
+    <tspan>♡ </tspan><tspan fill="#f97316" font-weight="600">Java</tspan><tspan> advanced · </tspan><tspan fill="#e6edf3">Ruby</tspan>
+  </text>
+  <text x="20" y="108" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e6edf3">
+    <tspan>♡ </tspan><tspan fill="#58a6ff">HTML</tspan><tspan> · </tspan><tspan fill="#f0db4f">CSS</tspan><tspan> · </tspan><tspan fill="#f0db4f">JavaScript</tspan><tspan> · </tspan><tspan fill="#306998">Python</tspan>
+  </text>
+  <text x="20" y="126" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e6edf3">
+    <tspan>♡ </tspan><tspan fill="#00b4d8" font-weight="600">Cybersecurity</tspan><tspan fill="#a8b5c8"> (Blue Team 🛡️)</tspan>
+  </text>
+
+  <line x1="20" y1="158" x2="370" y2="158" stroke="#21262d" stroke-width="1"/>
+
+  <text x="20" y="178" font-family="'Segoe UI', sans-serif" font-size="11.5" fill="#7b2ff7" font-weight="700" letter-spacing="1">HOBBIES &amp; INTERESTS</text>
+
+  <text x="20" y="200" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e6edf3">
+    <tspan>♡ Animes 📺 · Games 🎮 · Reading 📖</tspan>
+  </text>
+  <text x="20" y="220" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e6edf3">
+    <tspan>♡ </tspan><tspan fill="#ff6b9d" font-weight="600">ENHYPEN</tspan><tspan> &amp; </tspan><tspan fill="#a78bfa" font-weight="600">Evan</tspan><tspan fill="#a8b5c8"> — my favorites! :)</tspan>
+  </text>
+
+  <line x1="20" y1="238" x2="370" y2="238" stroke="#21262d" stroke-width="1"/>
+
+  <text x="195" y="262" font-family="'Segoe UI', sans-serif" font-size="10.5" fill="#a8b5c8" font-style="italic" text-anchor="middle">
+    "mood: growing." 
+  </text>
+</svg>
